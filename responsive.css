@@ -1,0 +1,154 @@
+@media (max-width: 991px){
+	.happy-menu{
+     display:none;
+	}
+	.mmenu{
+		position:relative;
+	}
+	.mobile-menu-icon{
+       display:block;
+       position:absolute;
+       top: 13%;
+       left:94%;
+       font-size:30px;
+ }
+     .hmmenu{
+     	position:relative;
+     }
+	.mobile-menu{
+	    
+		position:absolute;
+		width: 97%;
+		background: #111111a6;
+		top: 12px;
+		padding: 20px 11px;
+
+	}
+	.mobile-menu ul{
+
+	}
+	.mobile-menu ul li{
+
+	}
+	.mobile-menu ul li:hover{
+		background:#fff;
+
+	}
+	.mobile-menu ul li a{
+		font-size:50px;
+		color:#fff;
+		font-weight:bold;
+		margin:7px 0;
+		display:inline-block;
+	}
+	.mobile-menu ul li:hover a{
+		color:#000;
+	}
+	/*sec1*/
+	.sec1{
+
+	}
+	.sec1-img{
+		text-align:center;
+	}
+	.sec1-img img{
+		width:100%;
+	}
+	.sec1-right{
+		margin-left: 15px;
+		margin-top: 26px;
+		text-align: left;
+		margin-bottom: 15px;
+	}
+	/*sec2*/
+	.sec2{
+		padding-top:220px;
+	}
+	.secmid-text h2{
+		font-size:35px;
+	}
+	.secmid-img{
+		overflow:hidden;
+	}
+	.secmid-img img{
+     max-width:35%;
+	}
+	.sec2-text{
+		top:88px;
+       left:49px;
+	}
+   .sec3img img{
+   	width:100%;
+   }
+   .sec3lefimg img{
+   	width:40%;
+   }
+  .sec5{
+  	text-align:center;
+  }
+  .sec4responsive{
+  	
+  	margin-left: 15%;
+  }
+  /*footer*/
+  .foot-logo{
+	padding-bottom:80px;
+}
+.foot-link{
+  padding-bottom:60px;
+}
+
+}
+@media (max-width: 767px){
+ 
+  .secmid{
+  	top: -102px;
+  	left: 106px;
+  }
+  .sec1{
+    padding-bottom:180px;
+	}
+  .sec2-text{
+  	 top: 37px;
+  	 left: 32px;
+  }
+  .secmid-text h2{
+		font-size:25px;
+	}
+	.secmid-text p{
+		font-size:8px;
+	}
+	.last-foot{
+		text-align:center;
+	}
+   .foot-links ul{
+   	padding-right:200px;
+   }
+   .last-foot p{
+   	padding-bottom:0;
+   }
+   .clicktop{
+   	left:89%
+   }
+}
+@media (max-width: 576px){
+  .secmid{
+  	display:none;
+  }
+  .sec1{
+    padding-bottom:80px;
+	}
+	.sec2{
+		padding-top:100px;
+	}
+	.sec2-text{
+		width:60%;
+	}
+	.sec2-text h2{
+     font-size:40px;
+     line-height:1;
+	}
+	.sec2-text p{
+
+	}
+}
